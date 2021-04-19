@@ -8,11 +8,11 @@
   </a>
 </p>
 
-- 🔭 I build responsive SPAs in HTML5, CSS3, JavaScript and React.
-- 🌱 I’m currently learning Next.js, TypeScript, headless CMS.
-- 👯 I’m looking to be part of a software engineering team.
-- 📫 How to reach me: viviane.kodama@gmail.com
-- ⚡ Fun fact: I'm constantly looking to improve.
+- 🔭  I build responsive SPAs in HTML5, CSS3, JavaScript, React and Next.js.
+- 🌱  I’m currently learning React Native, TypeScript, headless CMS.
+- 👯  I’m looking to be part of a software engineering team.
+- 📫  How to reach me: viviane.kodama@gmail.com
+- ⚡  Fun fact: Too many! But I'm constantly looking to improve.
 - 
 **Technologies and tools I use:**
 </br>
