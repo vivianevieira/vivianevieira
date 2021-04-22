@@ -12,8 +12,8 @@
 - 🌱  I’m currently learning React Native, TypeScript, headless CMS.
 - 👯  I’m looking to be part of a software engineering team.
 - 📫  How to reach me: viviane.kodama@gmail.com
-- ⚡  Fun fact: Too many! But I'm constantly looking to improve.
-- 
+- 🍵  Fun fact: I don't drink coffe but I drink matcha! And... I'm constantly looking to improve.
+
 **Technologies and tools I use:**
 </br>
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
