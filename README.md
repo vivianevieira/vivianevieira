@@ -40,7 +40,6 @@
 ![image](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
 
 
-
 <a href="https://github.com/vivianevieira/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivianevieira&show_icons=true" />
 </a>
