@@ -1,4 +1,4 @@
-  <h1 align="center">Hi there, 👋 I'm Viviane Vieira</h1>
+  <h1 align="center">Hi there, 👋 I'm Viviane (Kodama M.) Vieira</h1>
 
 <p align="center">
   A passionate Front End developer.
