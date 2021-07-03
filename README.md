@@ -1,7 +1,7 @@
   <h1 align="center">Hi there, 👋 I'm Viviane (Kodama M.) Vieira</h1>
 
 <p align="center">
-  A passionate Front End developer.
+  A passionate Frontend developer.
   </br></br>
    <a href="https://www.linkedin.com/in/viviane-km-vieira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
